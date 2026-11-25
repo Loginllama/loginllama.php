@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/Loginllama/loginllama.php/compare/v1.4.0...v1.4.1) (2026-11-25)
+
+
+### Other Changes
+
+* **deps:** bump amannn/action-semantic-pull-request ([#24](https://github.com/Loginllama/loginllama.php/issues/24)) ([feb0a2b](https://github.com/Loginllama/loginllama.php/commit/feb0a2b0892323a14094d4d631a5933e4110ddf8))
+
 ## [1.4.0](https://github.com/Loginllama/loginllama.php/compare/v1.3.0...v1.4.0) (2026-11-17)
 
 
